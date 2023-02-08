@@ -15,14 +15,14 @@ My stats on GitHub
 
 <picture>
 <source 
-  srcset="https://github-readme-stats.vercel.app/api/wakatime/?username=ivobonchev&show_icons=true&layout=compact&theme=dark"
+  srcset="https://github-readme-stats.vercel.app/api/wakatime/?username=ivobonchev&layout=compact&theme=dark"
   media="(prefers-color-scheme: dark)"
 />
 <source
-  srcset="https://github-readme-stats.vercel.app/api/wakatime/?username=ivobonchev&show_icons=true&layout=compact"
+  srcset="https://github-readme-stats.vercel.app/api/wakatime/?username=ivobonchev&layout=compact"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime/?username=ivobonchev&show_icons=true&layout=compact" alt="WakaTime Stats"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime/?username=ivobonchev&layout=compact" alt="WakaTime Stats"/>
 </picture>
 
 
