@@ -1,6 +1,8 @@
 # Stats
 My stats on GitHub
 
+<br><p align="center">![profile_views](https://komarev.com/ghpvc/?username=ivobonchev&color=blueviolet)</div></p>
+
 <picture>
 <source 
   srcset="https://github-readme-stats.vercel.app/api?username=ivobonchev&show_icons=true&include_all_commits=true&theme=dark"
